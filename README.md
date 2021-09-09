@@ -4,4 +4,4 @@ I use [LeetHub](https://github.com/QasimWani/LeetHub) to automatically push the 
 
 All problems are solved using JavaScript.
 
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=annthespy&theme=dark)
+![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=annthespy&theme=dark)
