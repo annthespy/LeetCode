@@ -16,7 +16,6 @@ var decodeMessage = function(key, message) {
         pointer++
       }
     }
-  console.log(cypher)
   let result = ''
   for (var i = 0; i < message.length; i++) {
     if (message[i] === ' ') {
