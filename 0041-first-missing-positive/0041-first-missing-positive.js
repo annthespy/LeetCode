@@ -3,14 +3,15 @@
  * @return {number}
  */
 var firstMissingPositive = function(nums) {
-  let counter = 1
-  let positives = nums.sort((a,b) => a - b).filter(num => num > 0)
-  for (var i = 0; i < positives.length; i++) {
-    if (positives[i] === counter) {
-      if (positives[i] === positives[i+1]) { continue }
-      else counter++
+ let uniqueNums = new Map()
+  for (var i = 0; i < nums.length; i++) {
+    if (!uniqueNums[nums[i]] && nums[i] > 0) {
+      uniqueNums.set(nums[i], nums[i])
     }
-    else break
   }
- return counter
+    let result = 1
+  while (uniqueNums.has(result)) {
+    result++
+  }
+  return result
 };
