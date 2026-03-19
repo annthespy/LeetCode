@@ -12,6 +12,7 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/annthespy/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/annthespy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/annthespy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -35,6 +36,7 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/annthespy/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/annthespy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -44,4 +46,8 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/annthespy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
