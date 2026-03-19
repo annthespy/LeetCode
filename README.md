@@ -32,6 +32,7 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/annthespy/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/annthespy/LeetCode/tree/main/0050-powx-n/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,8 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/annthespy/LeetCode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
