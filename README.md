@@ -11,6 +11,7 @@ All problems are solved using JavaScript.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/annthespy/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/annthespy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,4 +21,8 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/annthespy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/annthespy/LeetCode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
