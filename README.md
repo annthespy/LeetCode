@@ -13,15 +13,18 @@ All problems are solved using JavaScript.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/annthespy/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/annthespy/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/annthespy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/annthespy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/annthespy/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/annthespy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/annthespy/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/annthespy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
