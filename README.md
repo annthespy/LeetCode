@@ -30,6 +30,7 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/annthespy/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/annthespy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/annthespy/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/annthespy/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Math
@@ -40,6 +41,7 @@ All problems are solved using JavaScript.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/annthespy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/annthespy/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/annthespy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
@@ -63,5 +65,6 @@ All problems are solved using JavaScript.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/annthespy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/annthespy/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
