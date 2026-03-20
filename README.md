@@ -31,6 +31,7 @@ All problems are solved using JavaScript.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/annthespy/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/annthespy/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/annthespy/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ All problems are solved using JavaScript.
 | [0013-roman-to-integer](https://github.com/annthespy/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/annthespy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/annthespy/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +60,8 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/annthespy/LeetCode/tree/main/0050-powx-n/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/annthespy/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
