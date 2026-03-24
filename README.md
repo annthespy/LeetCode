@@ -15,6 +15,7 @@ All problems are solved using JavaScript.
 | [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/annthespy/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/annthespy/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/annthespy/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/annthespy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/annthespy/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/annthespy/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/annthespy/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@ All problems are solved using JavaScript.
 | [0003-longest-substring-without-repeating-characters](https://github.com/annthespy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/annthespy/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/annthespy/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/annthespy/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +49,7 @@ All problems are solved using JavaScript.
 | [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/annthespy/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/annthespy/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/annthespy/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +62,7 @@ All problems are solved using JavaScript.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/annthespy/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/annthespy/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +72,16 @@ All problems are solved using JavaScript.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/annthespy/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/annthespy/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/annthespy/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/annthespy/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/annthespy/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
